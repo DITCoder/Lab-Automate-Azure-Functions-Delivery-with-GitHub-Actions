@@ -1,4 +1,4 @@
-# CarvedRock Serverless Delivery
+# CarvedRock Serverless Delivery2
 
 Sample HTTP-triggered Azure Function used in the hands-on lab
 **Automate Azure Functions Delivery with GitHub Actions**.
